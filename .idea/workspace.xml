@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1d3d076-b7cd-4231-b383-52118e4e28f4" name="变更" comment="commit">
-      <change afterPath="$PROJECT_DIR$/2023_01_03/Melbourne_house.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023_01_03/usecase_discovery.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023_01_03/usecase分析思路.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_01_03/Melbourne_house.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2023_01_03/Melbourne_house.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Markdown",
+    "settings.editor.selected.configurable": "Jupyter Settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,7 +85,7 @@
       <workItem from="1671828657506" duration="33076000" />
       <workItem from="1672358262886" duration="95000" />
       <workItem from="1672358433138" duration="13846000" />
-      <workItem from="1672664913603" duration="13050000" />
+      <workItem from="1672664913603" duration="20541000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1671787028631</created>
@@ -159,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672665681667</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1672913111812</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672913111812</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
